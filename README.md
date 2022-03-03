@@ -33,14 +33,16 @@
 * 1.3 Swot analysis
 * 1.4 4W 1H
 
-* 2 Architecture
+# 2 Architecture
 * High level Design 
 * Low level design
 
-* 3 Implementation
+# 3 Implementation
 
-* 4 Test plan and Output
+# 4 Test plan and Output
 * 4.1 Snapshots of final output
 * 4.2 Result Explaination
 
-* 5 Images and Videos
+# 5 Images and Videos
+# Badges
+https://app.codacy.com/gh/Nandan-Avadhani/M1_Atm_Machine_utl/dashboard
