@@ -44,5 +44,4 @@
 * 4.2 Result Explaination
 
 # 5 Images and Videos
-# Badges
-https://app.codacy.com/gh/Nandan-Avadhani/M1_Atm_Machine_utl/dashboard
+
