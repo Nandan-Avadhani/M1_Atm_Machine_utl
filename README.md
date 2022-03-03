@@ -43,5 +43,6 @@
 * 4.1 Snapshots of final output
 * 4.2 Result Explaination
 
-# 5 Images and Videos
+# 5 Report
+# 6 Images and videos 
 
